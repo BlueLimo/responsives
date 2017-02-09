@@ -1,0 +1,36 @@
+body 
+{
+    padding-top: 70px; 
+    background-color: #FFF0F5;
+}
+.div-left
+{
+	border: 1px solid #eef;
+	margin-right: 1px;
+	background-color: #fff;
+	margin-bottom: 10px;
+}
+.div-middle
+{
+	border: 1px solid #eef;
+	margin-right: 1px;
+	margin-left: 1px;
+	background-color: #fff;
+	margin-bottom: 10px;
+}
+.div-right
+{
+	border: 1px solid #eef;
+	margin-left: 1px;
+	height: 100px;
+	background-color: #fff;
+	margin-bottom: 10px;
+}
+.title-nav
+{
+	border-bottom: 1px solid #eef;
+	font-weight: calibri;
+	color: #006699;
+	font-size:  16px;
+	padding-top: 20px;
+}
